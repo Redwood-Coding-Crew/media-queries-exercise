@@ -1,3 +1,7 @@
+.hidden-on-mobile {
+    display: none;
+}
+
 h1 {
     float: left;
     margin-right: 100px;
@@ -24,10 +28,11 @@ li {
 .main {
     float: left;
     width: 60%;
-    margin: 20px 0 10px 0;
+    margin-top: 20px;
 }
 
 .sub-section {
-    margin: 20px;
+    margin-top: 20px;
 
 }
+
