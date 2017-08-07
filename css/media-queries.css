@@ -1,7 +1,13 @@
 h1 {
-
+    float: left;
 }
 
 .nav-links {
-    list-style: none;
+    list-style-type: none;
+    float: left;
 }
+
+li {
+    display: inline-block;
+}
+
