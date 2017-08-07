@@ -1,6 +1,7 @@
 h1 {
     float: left;
     margin-right: 100px;
+    margin-top: 0;
 }
 
 .nav-links {
@@ -20,3 +21,13 @@ li {
 
 }
 
+.main {
+    float: left;
+    width: 60%;
+    margin: 20px 0 10px 0;
+}
+
+.sub-section {
+    margin: 20px;
+
+}
