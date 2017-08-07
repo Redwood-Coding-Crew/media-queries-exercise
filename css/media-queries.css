@@ -5,7 +5,7 @@ h1 {
 
 .nav-links {
     list-style-type: none;
-    float: left;
+    float: right;
 }
 
 li {
@@ -15,5 +15,8 @@ li {
 
 .header-img {
     clear: both;
+    height: 385px;
+    width: 890px;
+
 }
 
