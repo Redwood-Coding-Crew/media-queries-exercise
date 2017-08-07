@@ -20,8 +20,10 @@ li {
 
 .header-img {
     clear: both;
-    height: 385px;
-    width: 890px;
+    margin: (0, auto);
+    /*height: 385px;*/
+    /*width: 890px;*/
+    /*margin-bottom: 20px;*/
 
 }
 
@@ -29,10 +31,14 @@ li {
     float: left;
     width: 60%;
     margin-top: 20px;
+    margin-right: 20px;
+
 }
 
 .sub-section {
-    margin-top: 20px;
+    width:
+    margin-top: 40px;
+
 
 }
 
