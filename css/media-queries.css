@@ -1,5 +1,6 @@
 h1 {
     float: left;
+    margin-right: 100px;
 }
 
 .nav-links {
@@ -9,5 +10,10 @@ h1 {
 
 li {
     display: inline-block;
+    margin-right: 10px;
+}
+
+.header-img {
+    clear: both;
 }
 
