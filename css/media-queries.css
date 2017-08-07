@@ -20,25 +20,35 @@ li {
 
 .header-img {
     clear: both;
-    margin: (0, auto);
+    margin: 0 auto;
     /*height: 385px;*/
     /*width: 890px;*/
     /*margin-bottom: 20px;*/
 
 }
 
+.header-img img {
+    width: 100%;
+}
+
 .main {
     float: left;
     width: 60%;
-    margin-top: 20px;
-    margin-right: 20px;
+    text-align: match-parent;
+    box-sizing: border-box;
+    padding: 10px;
 
 }
 
 .sub-section {
-    width:
-    margin-top: 40px;
-
-
+    float: left;
+    width: 40%;
+    font-style: italic;
+    text-align: match-parent;
+    box-sizing: border-box;
+    padding: 10px;
 }
 
+footer>p {
+    margin-top: 250px;
+}
