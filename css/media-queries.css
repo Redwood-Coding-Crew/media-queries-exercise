@@ -75,6 +75,7 @@ footer {
         margin: 0 auto;
         text-align: center;
         width: 100%;
+        margin-bottom: 10px;
     }
 
     li {
@@ -93,10 +94,14 @@ footer {
         text-align: center;
     }
 
-    .main-section {
+    .main {
+        box-sizing: border-box;
+        width: 100%;
 
     }
      .sub-section {
+         box-sizing: border-box;
+         width: 100%;
 
      }
 
