@@ -77,5 +77,14 @@ footer {
         width: 100%;
     }
 
+    li {
+        display: block;
+        border: 1px solid #ccc;
+        background-color: #ccc;
+        padding: 10px;
+        margin-bottom: 3px;
+
+    }
+
 
 }
