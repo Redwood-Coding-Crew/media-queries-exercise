@@ -55,5 +55,11 @@ footer {
 }
 
 @media screen and (max-width: 339px) {
-
+    .alert-info  {
+        display: block;
+        border: 1px solid gray;
+        background-color: #CCFFFF;
+        box-sizing: border-box;
+        padding: 20px;
+    }
 }
