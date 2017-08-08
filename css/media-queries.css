@@ -59,7 +59,21 @@ footer {
         display: block;
         border: 1px solid gray;
         background-color: #CCFFFF;
-        box-sizing: border-box;
         padding: 20px;
+        text-align: center;
+
     }
+
+    .alert-info>a {
+        text-decoration: none;
+        font-color: black;
+
+    }
+
+    h1 {
+        text-align: center;
+
+    }
+
+
 }
